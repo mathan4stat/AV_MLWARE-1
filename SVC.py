@@ -26,7 +26,7 @@ from sklearn.utils import shuffle
 
 
 # In[3]:
-os.chdir('C:/Users/GUS9KOR/Documents/Projects/MLWARE1')
+os.chdir('<path>')
 trainX = pd.read_csv('train_MLWARE1.csv')
 test = pd.read_csv('test_MLWARE1.csv')
 
